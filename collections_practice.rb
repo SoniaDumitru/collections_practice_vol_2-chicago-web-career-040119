@@ -35,6 +35,7 @@ def count_elements(array)
   array.count do |word|
 
 end
+end
 
 #combines two nested data structures into one
 def merge_data(array)
